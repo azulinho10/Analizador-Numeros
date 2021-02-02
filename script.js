@@ -20,7 +20,7 @@ function adicionarNumeros() {
       adicionarNumeroTab.appendChild(item);
     }
   } else {
-    alert("Digite o número entre 1 a 100 ");
+    alert("Digite o número entre 1 a 100");
   }
 }
 
